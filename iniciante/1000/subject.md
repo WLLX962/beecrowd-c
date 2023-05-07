@@ -1,4 +1,4 @@
-# Subject 1000
+# Subject 1000 - Hello World!
 
 Bem-vindo ao **beecrowd**!
 
@@ -16,3 +16,5 @@ conforme o exemplo abaixo.
 | Exemplo de Entrada 	| Exemplo de Saída 	|
 | -------------------	| -----------------	|
 | 										|	Hello World!			|
+
+---
