@@ -1,5 +1,4 @@
 #include "../iniciante.h"
-#include <math.h>
 
 MU_TEST(test_area_with_radius_equals_2)
 {

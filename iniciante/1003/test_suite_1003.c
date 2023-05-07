@@ -1,5 +1,4 @@
 #include "../iniciante.h"
-#include <math.h>
 
 MU_TEST(test_sum_a_equals_30_and_b_equals_10)
 {
